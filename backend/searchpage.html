@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <br /><br />
+        <center><strong>Ache Crawl</strong></center>
+        <br /><br />
+        <br />
+        <div class="input-group">
+            <input id="text" type="text" class="form-control" placeholder="Enter text" />
+            <div class="input-group-btn">
+                <button class="btn btn-default" id="submit" type="submit">
+            <i class="glyphicon glyphicon-search"></i>
+          </button>
+            </div>
+        </div>
+
+        <div id="result" class="table-responsive"></div>
+        <br />
+        <div>
+            <button id="prev" type="button" class="btn btn-primary">
+          Previous
+        </button>
+            <button id="next" type="button" class="btn btn-primary">Next</button>
+        </div>
+    </div>
+
+    <script>
+        var textfield = document.getElementById("text");
+        textfield.addEventListener("keyup", function(e) {
+            if (e.keyCode === 13) {
+                e.preventDefault();
+                document.getElementById("submit").click();
+            }
+        });
+        var fetch_size = 10;
+        var from = 0;
+        var record_count = 0;
+        var current_window_arr = 0;
+        var total_records = 0;
+
+        $(document).ready(function() {
+            $("#prev").attr("disabled", true);
+            $("#next").attr("disabled", true);
+            $("#submit").click(function() {
+                from = 0;
+                record_count = 0;
+                current_window_arr = 0;
+                api(from);
+            });
+            $("#next").click(function() {
+                console.log("next");
+                from = from + 10;
+                api(from);
+            });
+            $("#prev").click(function() {
+                console.log("prev");
+                record_count -= 10;
+                record_count = record_count - current_window_arr;
+                from = from - 10;
+                api(from);
+            });
+        });
+
+        function api(from) {
+            if (!$("#text").val() == "") {
+                $("#result").html("Please Wait...");
+
+                var text = $("#text").val();
+                var url =
+                    "http://127.0.0.1:9200/morocco-05/_search?_source=domain,url,title&q=title:" +
+                    text +
+                    "&from=" +
+                    from +
+                    "&size=" +
+                    fetch_size;
+                console.log(url);
+                
+                            fetch(url)
+                        .then(response => response.json())
+                        .then(data => apicall(data));
+            } else alert("Please enter text.");
+        }
+
+        function apicall(data) {
+            result = data
+            console.log(result);
+            total_records = result["hits"]["total"]["value"];
+            current_window_arr = result["hits"]["hits"].length;
+
+            $("#result").html(
+                "<br>About " +
+                result["hits"]["total"]["value"] +
+                " results (" +
+                (result["took"] / 1000).toFixed(2) +
+                " seconds)<br><br><br><br>"
+            );
+
+            result = result["hits"]["hits"].map(function(i) {
+                record_count += 1;
+
+                var htm = "";
+
+                htm += "<table class='table'>";
+                htm += "<tr><td><a href='"+i["_source"]["url"]+"'>";
+                htm +=
+                    record_count +
+                    ". <strong>Title: " +
+                    i["_source"]["title"] +
+                    "</strong></a>";
+                htm += "<br><br>Site: "+ i["_source"]["domain"];
+                htm += "</td></tr>";
+                htm += "</table>";
+                $("#result").append(htm);
+                return i["_source"];
+            });
+            console.log("prev:", from);
+            console.log("next:", record_count, total_records);
+            if (from >= 10) $("#prev").attr("disabled", false);
+            else $("#prev").attr("disabled", true);
+
+            if (record_count < total_records) $("#next").attr("disabled", false);
+            else $("#next").attr("disabled", true);
+
+            console.log(result);
+            if (result.length == 0) $("#result").html("Sorry, No results.");
+        }
+    </script>
+</body>
+
+</html>
