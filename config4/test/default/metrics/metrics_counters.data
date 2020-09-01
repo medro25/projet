@@ -1,0 +1,10 @@
+downloader.fetches.aborted:0
+downloader.fetches.errors:0
+downloader.fetches.successes:3
+downloader.http_response.status.2xx:3
+downloader.http_response.status.401:0
+downloader.http_response.status.403:0
+downloader.http_response.status.404:0
+downloader.http_response.status.5xx:0
+target.storage.pages.downloaded:2
+target.storage.pages.relevant:0

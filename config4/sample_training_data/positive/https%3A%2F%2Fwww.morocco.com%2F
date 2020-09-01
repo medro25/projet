@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+
+  <title>Morocco.com | Your guide to Morocco</title>
+  <meta property="og:title" content="Morocco.com | Your guide to Morocco" />
+  <meta name="description" content="Morocco news, blogs, opinions and travel. Explore Morocco destinations, attractions, cities and regions." />
+  <meta property="og:description" content="Morocco news, blogs, opinions and travel. Explore Morocco destinations, attractions, cities and regions." />
+  <meta name="keywords" content="morocco, news, blogs, opinions, travel" />
+  <meta property="og:keywords" content="morocco, news, blogs, opinions, travel" />
+<meta property="og:url" content="https://www.morocco.com/" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
+<link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+<link rel="preconnect" href="https://adservice.google.com" crossorigin>
+<link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin>
+<link rel="preconnect" href="https://googleads.g.doubleclick.net" crossorigin>
+<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="shortcut icon" href="https://www.morocco.com/favicon.ico">
+<link rel="icon" sizes="192x192" href="https://www.morocco.com/android-chrome-192x192.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.morocco.com/apple-touch-icon.png">
+<meta name="theme-color" content="#123f6d">
+
+	<!-- This site is optimized with the Yoast SEO plugin v14.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="robots" content="index, follow" />
+	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.morocco.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Home - Morocco.com" />
+	<meta property="og:url" content="https://www.morocco.com/" />
+	<meta property="og:site_name" content="Morocco.com" />
+	<meta property="article:modified_time" content="2020-06-09T20:34:27+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.morocco.com/#website","url":"https://www.morocco.com/","name":"Morocco.com","description":"Your guide to Morocco","potentialAction":[{"@type":"SearchAction","target":"https://www.morocco.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.morocco.com/#webpage","url":"https://www.morocco.com/","name":"Home - Morocco.com","isPartOf":{"@id":"https://www.morocco.com/#website"},"datePublished":"2018-12-18T13:35:47+00:00","dateModified":"2020-06-09T20:34:27+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.morocco.com/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.morocco.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='https://www.morocco.com/wp-content/themes/geo-sites-new/style.css?ver=2019-10-24' type='text/css' media='all' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js?ver=5.4.2'></script>
+<link rel="icon" href="https://www.morocco.com/wp-content/uploads/2020/01/favicon-morroco.ico" sizes="32x32" />
+<link rel="icon" href="https://www.morocco.com/wp-content/uploads/2020/01/favicon-morroco.ico" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.morocco.com/wp-content/uploads/2020/01/favicon-morroco.ico" />
+<meta name="msapplication-TileImage" content="https://www.morocco.com/wp-content/uploads/2020/01/favicon-morroco.ico" />
+		<style type="text/css" id="wp-custom-css">
+			.dropdown .sub-menu {
+    display: none !important;
+}
+.dropdown.active .sub-menu {
+    display: block !important;
+}
+.copyright {
+    text-align: center;
+}		</style>
+		<script>var ajaxurl = "https://www.morocco.com/wp-admin/admin-ajax.php", assetsurl = "https://www.morocco.com/wp-content/themes/geo-sites-new/assets/";</script>
+<meta name="google-site-verification" content="ypzTSWmYap-jm2TL_76DnBOhdUkzbDKwzfVERMuhZpA" />
+<script>
+            jQuery('document').ready(function ($) {
+                jQuery('.menu-item-has-children').addClass('dropdown');
+                jQuery('.menu-item-has-children.dropdown').hover(function () {
+                    jQuery(this).toggleClass('active');
+                });
+                jQuery('.btn-menu.icon-menu').click(function () {
+                    jQuery('.menu-header-long-container').toggle();
+                });
+                jQuery('.btn-more').click(function () {
+                    jQuery('.menu-header-long-container').toggle();
+                });
+            });
+        </script></head>
+<body class="home page-template page-template-front-page page-template-front-page-php page page-id-17387">
+<header>
+<nav>
+<div class="container">
+    <div class="col-12">
+        <div class="top-menu">
+                                      <!--<a href="https://www.morocco.com/login/" class="button"><i class="icon-log-in"></i>Log in</a>
+              <a href="https://www.morocco.com/register/" class="button"><i class="icon-register"></i>Join</a>-->
+                              <a target="_blank" href="https://directory.morocco.com" class="button"><i class="icon-register"></i>Add My Business</a>
+			 		    <a href="/corporate/inquire/" style="color:white;font-weight:700;text-decoration:none;padding-left:20px;">Inquire About This Domain</a>
+		          </div>
+    </div>
+<div class="flex">
+<div class="menu-header-logo"><a href="https://www.morocco.com/" class="logo-link"><img src="https://www.morocco.com/wp-content/themes/geo-sites-new/assets/img/logo_resize-01.svg" alt="Morocco" style="width: 200px;"></a></div>
+<div class="menu-header-short-container">
+<ul id="menu-header-mobile" class="navbar-nav-mobile">
+<li class="menu-item"><a href="https://www.morocco.com/puerto-rico-map-and-area-guide/">City Guide</a></li>
+<li class="menu-item"><a href="https://www.morocco.com/regions/">Regions</a></li>
+<li class="menu-item"><a href="https://www.morocco.com/activities/">Things To Do</a></li>
+<li class="menu-item"><a href="https://www.morocco.com/attractions/">What To See</a></li>
+<li class="menu-item"><a href="https://www.morocco.com/culture/">Culture</a></li>
+<li class="menu-item"><span role="button" class="btn-more" aria-label="Toggle Primary Menu">More&hellip;</span></li>
+</ul>
+</div>
+<div class="menu-header-long-container">
+<div class="menu-header-menu-flex">
+<ul id="menu-header-menu" class="navbar-nav"><li id="menu-item-17373" class="dropdown menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17373"><a href="https://www.morocco.com/morocco-map-and-area-guide/">City Guide</a>
+<ul class="sub-menu">
+	<li id="menu-item-18122" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18122"><a href="https://www.morocco.com/regions/grand-casablanca/casablanca/">Casablanca</a></li>
+	<li id="menu-item-18123" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18123"><a href="https://www.morocco.com/regions/f-es-boulemane/fez/">Fez</a></li>
+	<li id="menu-item-18124" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18124"><a href="https://www.morocco.com/regions/marrakech-tensift-el-haouz/marrakech/">Marrakech</a></li>
+	<li id="menu-item-18125" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18125"><a href="https://www.morocco.com/regions/rabat-sale-zemmour-zaer/rabat/">Rabat</a></li>
+	<li id="menu-item-18126" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18126"><a href="https://www.morocco.com/morocco-map-and-area-guide/">More&#8230;</a></li>
+</ul>
+</li>
+<li id="menu-item-17375" class="dropdown menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17375"><a href="https://www.morocco.com/regions/">Regions</a>
+<ul class="sub-menu">
+	<li id="menu-item-18128" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18128"><a href="https://www.morocco.com/regions/area-guide/">Area Guide</a></li>
+	<li id="menu-item-17408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17408"><a href="https://www.morocco.com/regions/mekn-es-tafilalet/">Meknès-Tafilalet</a></li>
+	<li id="menu-item-17405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17405"><a href="https://www.morocco.com/regions/tangier-tetouan/">Tangier-Tétouan</a></li>
+	<li id="menu-item-17406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17406"><a href="https://www.morocco.com/regions/souss-massa-dra-a/">Souss-Massa-Draâ</a></li>
+	<li id="menu-item-18129" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18129"><a href="https://www.morocco.com/regions/">More&#8230;</a></li>
+</ul>
+</li>
+<li id="menu-item-17908" class="dropdown menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17908"><a href="https://www.morocco.com/activities/">Things To Do</a>
+<ul class="sub-menu">
+	<li id="menu-item-18131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18131"><a href="https://www.morocco.com/activities/fishing/">Fishing</a></li>
+	<li id="menu-item-18132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18132"><a href="https://www.morocco.com/activities/golf/">Golf</a></li>
+	<li id="menu-item-18133" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18133"><a href="https://www.morocco.com/activities/surfing/">Surfing</a></li>
+	<li id="menu-item-18134" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18134"><a href="https://www.morocco.com/activities/trekking/">Trekking</a></li>
+	<li id="menu-item-18135" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18135"><a href="https://www.morocco.com/activities/">More&#8230;</a></li>
+</ul>
+</li>
+<li id="menu-item-17476" class="dropdown menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17476"><a href="https://www.morocco.com/attractions/">What to See</a>
+<ul class="sub-menu">
+	<li id="menu-item-17414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17414"><a href="https://www.morocco.com/attractions/heritage-sites/">Heritage Sites</a></li>
+	<li id="menu-item-17415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17415"><a href="https://www.morocco.com/attractions/mosques/">Mosques</a></li>
+	<li id="menu-item-17839" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17839"><a href="https://www.morocco.com/attractions/national-parks/">National Parks</a></li>
+	<li id="menu-item-17417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17417"><a href="https://www.morocco.com/attractions/palaces/">Palaces</a></li>
+	<li id="menu-item-18130" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18130"><a href="https://www.morocco.com/attractions/">More&#8230;</a></li>
+</ul>
+</li>
+<li id="menu-item-17420" class="dropdown menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17420"><a href="https://www.morocco.com/culture/">Culture</a>
+<ul class="sub-menu">
+	<li id="menu-item-17421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17421"><a href="https://www.morocco.com/culture/people/">People</a></li>
+	<li id="menu-item-17422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17422"><a href="https://www.morocco.com/culture/ancient-morocco/">Ancient Morocco</a></li>
+	<li id="menu-item-17423" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17423"><a href="https://www.morocco.com/culture/language/">Language</a></li>
+	<li id="menu-item-17424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17424"><a href="https://www.morocco.com/culture/architecture/">Architecture</a></li>
+	<li id="menu-item-18136" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18136"><a href="https://www.morocco.com/culture/">More&#8230;</a></li>
+</ul>
+</li>
+<li id="menu-item-17472" class="dropdown menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17472"><a href="https://www.morocco.com/travel/">Travel</a>
+<ul class="sub-menu">
+	<li id="menu-item-17410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17410"><a href="https://www.morocco.com/travel/flights/">Flights</a></li>
+	<li id="menu-item-17529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17529"><a href="https://www.morocco.com/travel/hotels/">Hotels</a></li>
+	<li id="menu-item-17523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17523"><a href="https://www.morocco.com/travel/car-rental/">Rental Cars</a></li>
+	<li id="menu-item-17526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17526"><a href="https://www.morocco.com/travel/cruises/">Cruises</a></li>
+	<li id="menu-item-18137" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18137"><a href="https://www.morocco.com/travel/">More&#8230;</a></li>
+</ul>
+</li>
+<li id="menu-item-17613" class="dropdown menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17613"><a href="/business/">Business</a>
+<ul class="sub-menu">
+	<li id="menu-item-18138" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18138"><a href="https://www.morocco.com/business/currency/">Currency</a></li>
+	<li id="menu-item-18139" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18139"><a href="https://www.morocco.com/business/demographics/">Demographics</a></li>
+	<li id="menu-item-18140" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18140"><a href="https://www.morocco.com/business/stock-market/">Stock Market</a></li>
+	<li id="menu-item-18142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18142"><a href="https://www.morocco.com/business/translation/">Translation</a></li>
+	<li id="menu-item-18141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18141"><a href="https://www.morocco.com/business/">More&#8230;</a></li>
+</ul>
+</li>
+<li id="menu-item-17835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17835"><a href="/blog/">Blog</a></li>
+</ul><form action="https://www.morocco.com/search/" method="get" class="search-form-mobile">
+ <input type="text" name="q" value="" placeholder="Search" autocomplete="off">
+ <button type="submit" class="submit-search" aria-label="Search"><span class="btn-search icon-search"></span></button>
+</form>
+</div>
+</div>
+<div class="menu-header-buttons">
+ <span role="button" class="btn-search-toggle icon-search-toggle" aria-label="Toggle Search"></span>
+ <span role="button" class="btn-menu icon-menu" aria-label="Toggle Primary Menu"></span>
+</div>
+</div>
+</div>
+</nav>
+</header><div class="home-page container">
+    <div class="row">
+        <main class="main">
+            <section class="section-wrap">
+                <h1 class="main-title"><span>WELCOME TO MOROCCO.com</span></h1>
+                <p>Morocco is a country located in north western Africa- it also claims the territory of Western Sahara.  Morocco’s historical name in English is “The Farthest West”.  It is home to famous <a href="/morocco-map-and-area-guide/">cities</a> and destinations including Casablanca, Tangiers, and the Sahara Desert. Morocco is also known for its unspoiled <a href="/area-guide/beaches/">beaches</a>, majestic mountains, and picturesque <a href="/area-guide/ports/">ports of call</a>.</p>
+<p>Travelers to Morocco are treated to a rich <a href="/area-guide/culture/">culture</a> and diverse geography which spans from sea levelon the <a href="/area-guide/atlantic-coast/">Atlantic Coast</a> to more than 2,300 m) (13,000 ft.) in the <a href="/area-guide/high-atlas/">High Atlas Mountains</a>.  Morocco is home to Africa’s 22nd highest mountain, Jbel Toubkai, 10 World Heritage Sites (with an additional 13 sites under consideration) and 11 National Parks with many rare species and forms of <a href="/attractions/wildlife/">wildlife</a>.</p>
+<p>Morocco is considered to be one of the most politically stable countries in Africa and currently attracts more than 12.8 million annual visitors.  In 2018, and for the first time, Morocco had the most visitors and tourists of any country in Africa.</p>
+
+            </section>
+			  <div class="advertise-content size-728x90"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Horse Racing 728 x 90 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-6926536363504622"
+     data-ad-slot="1861609023"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+            <section class="section-wrap cityguide">
+                <h2 class="section-title"><span>City Guide By Region</span></h2>
+                <ul class="row pages-listed">
+                    <li class="col-sm-6 page-block item">
+                        <div class="pages-category"> <a href="https://www.morocco.com/regions/grand-casablanca/"><span class="pages-category-title">F&ecirc;s Boulemane</span></a></div>
+                        <img data-no-lazy="1" class="pages-lead-image" src="https://www.morocco.com/wp-content/uploads/2020/01/Canva-Fez-Morocco-1-1.jpg" alt="F&ecirc; s Boulemane">
+                        <ul class="pages-lead-list">
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/regions/f-es-boulemane/fez/">Fez</a></h3></li>
+                        </ul>
+                    </li>
+                    <li class="col-sm-6 page-block item">
+                        <div class="pages-category"> <a href="https://www.morocco.com/regions/grand-casablanca/"><span class="pages-category-title">Grand Casablanca</span></a></div>
+                        <img data-no-lazy="1" class="pages-lead-image" src="https://www.morocco.com/wp-content/uploads/2020/01/Canva-Mosque-by-the-Sea-in-Casablanca-Morocco.jpg" alt="Grand Casablanca">
+                        <ul class="pages-lead-list">
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/regions/grand-casablanca/casablanca/">Casablanca</a></h3></li>
+                        </ul>
+                    </li>
+                    <li class="col-sm-6 page-block item">
+                        <div class="pages-category"> <a href="https://www.morocco.com/regions/marrakech-tensift-el-haouz/"><span class="pages-category-title">Marrakech Tensift El Haouz</span></a></div>
+                        <img data-no-lazy="1" class="pages-lead-image" src="https://www.morocco.com/wp-content/uploads/2020/01/Canva-null-1.jpg" alt="Marrakech Tensift El Haouz">
+                        <ul class="pages-lead-list">
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/regions/marrakech-tensift-el-haouz/essaouira/">Essaouira</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/regions/marrakech-tensift-el-haouz/marrakech/">Marrakech</a></h3></li>
+                        </ul>
+                    </li>
+                    <li class="col-sm-6 page-block item">
+                        <div class="pages-category"> <a href="https://www.morocco.com/regions/mekn-es-tafilalet/"><span class="pages-category-title">Menès-Tafilalet </span></a></div>
+                        <img data-no-lazy="1" class="pages-lead-image" src="https://www.morocco.com/wp-content/uploads/2020/01/Canva-Moroccan-Moque-Archway-1.jpg" alt="Menès-Tafilalet">
+                        <ul class="pages-lead-list">
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/regions/mekn-es-tafilalet/erfoud/">Erfoud</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/regions/mekn-es-tafilalet/meknes/">Meknes</a></h3></li>
+                        </ul>
+                    </li>
+                    <li class="col-sm-6 page-block item">
+                        <div class="pages-category"> <a href="https://www.morocco.com/regions/doukkala-abda/"><span class="pages-category-title">Doukkala Abda</span></a></div>
+                        <img data-no-lazy="1" class="pages-lead-image" src="https://www.morocco.com/wp-content/uploads/2020/01/Canva-Ceramic-Shop-in-Morocco-1.jpg" alt="Doukkala Abda">
+                        <ul class="pages-lead-list">
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/regions/doukkala-abda/el-jadida/">El Jadida</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/regions/doukkala-abda/safi/">Safi</a></h3></li>
+                        </ul>
+                    </li>
+                    <li class="col-sm-6 page-block item">
+                        <div class="pages-category"> <a href="https://www.morocco.com/regions/tangier-tetouan/"><span class="pages-category-title">Tangier-T&ecirc;touan </span></a></div>
+                        <img data-no-lazy="1" class="pages-lead-image" src="https://www.morocco.com/wp-content/uploads/2020/01/Canva-City-at-dusk-Tangier-Morocco-1.jpg" alt="Tangier-Tétouan">
+                        <ul class="pages-lead-list">
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/regions/tangier-tetouan/tangier/">Tangier</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/regions/tangier-tetouan/tetouan/">Tetouan</a></h3></li>
+                        </ul>
+                    </li>
+                    <li class="col-sm-6 page-block item">
+                        <div class="pages-category"> <a href="https://www.morocco.com/regions/souss-massa-dra-a/"><span class="pages-category-title">Souss-Massa-Draâ</span></a></div>
+                        <img data-no-lazy="1" class="pages-lead-image" src="https://www.morocco.com/wp-content/uploads/2020/01/Canva-Morocco-1.jpg" alt="Souss-Massa-Draâ</span>">
+                        <ul class="pages-lead-list">
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/regions/souss-massa-dra-a/agadir/">Agadir</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/regions/souss-massa-dra-a/ouarzazate/">Ouarzazate</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/regions/souss-massa-dra-a/ouarzazate/">Taroudant</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/regions/souss-massa-dra-a/zagora/">Zagora</a></h3></li>
+                        </ul>
+                    </li>
+                    <li class="col-sm-6 page-block item">
+                        <div class="pages-category"> <a href="https://www.morocco.com/regions/rabat-sale-zemmour-zaer/"><span class="pages-category-title">Rabat-Sal&ecirc;-Zemmour-Zaer </span></a></div>
+                        <img data-no-lazy="1" class="pages-lead-image" src="https://www.morocco.com/wp-content/uploads/2020/01/Canva-Chefchaouen-North-Morocco-1.jpg" alt="Rabat-Sal&ecirc;-Zemmour-Zaer">
+                        <ul class="pages-lead-list">
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/regions/rabat-sale-zemmour-zaer/rabat/">Rabat</a></h3></li>
+                        </ul>
+                    </li>
+                </ul>
+                <br>
+            </section>
+              <div class="advertise-content size-728x90"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Horse Racing 728 x 90 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-6926536363504622"
+     data-ad-slot="1861609023"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+            <section class="section-wrap cityguide">
+                <h2 class="section-title"><span>Things to Do and See</span></h2>
+                <ul class="row pages-listed">
+                    <li class="col-sm-6 page-block item">
+                        <div class="pages-category"> <a href="https://www.morocco.com/attractions/"><span class="pages-category-title">Attractions</span></a></div>
+                        <img data-no-lazy="1" class="pages-lead-image" src="https://www.morocco.com/wp-content/uploads/2020/01/Canva-City-of-Morocco.jpg" alt="Art Galleries">
+                        <ul class="pages-lead-list">
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/attractions/art-galleries/">Art Galleries</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/attractions/heritage-sites/">Heritage Sites</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/attractions/mosques/">Mosques</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/attractions/museums/">Museums</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/attractions/national-parks/">National Parks</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/attractions/palaces/">Palaces</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/attractions/theaters/">Theatres and Performing Arts</a></h3></li>
+                        </ul>
+                    </li>
+                    <li class="col-sm-6 page-block item">
+                        <div class="pages-category"> <a href="https://www.morocco.com/activities/"><span class="pages-category-title">Activities</span></a></div>
+                        <img data-no-lazy="1" class="pages-lead-image" src="https://www.morocco.com/wp-content/uploads/2020/01/Canva-Camels-on-a-Caravan-in-the-Desert-scaled-1.jpg" alt="Adventure Travel">
+                        <ul class="pages-lead-list">
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/blog/adventure-travel-in-morocco/">Adventure Travel</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/attractions/dakar-rally/">Dakar Rally</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/activities/sport-2/fishing/">Fishing</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/activities/sport-2/golf/">Golf</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/activities/sport-2/hot-air-ballooning/">Hot Air Ballooning</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/activities/sport-2/surfing/">Surfing</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/activities/sport-2/snow-skiing/">Snow Skiing</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/activities/sport-2/trekking/">Trekking</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/attractions/wildlife/">Wildlife</a></h3></li>
+                        </ul>
+                    </li>
+                </ul>
+                <br>
+            </section>
+			
+			
+            <section class="section-wrap">
+                <h2 class="section-title"><span>Selected Resources</span></h2>
+                <ul class="row pages-listed">
+                    <li class="col-sm-6 page-block item">
+                        <div class="pages-category"> <a href="https://www.morocco.com/ecuador-map-and-area-guide/"><span class="pages-category-title">Visitors and Travelers</span></a></div>
+                        <ul class="pages-lead-list">
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/area-guide/">Area Guide</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/travel/embassies/">Embassies and Consulates </a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/travel/essentials/currency-converter/">Currency Converter</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/travel/essentials/getting-there/">Getting Here</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/travel/essentials/health-advice/">Health Advice</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/about-morocco/discover-morocco/key-facts/">Key Facts</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/area-guide/touring-routes/">Touring Routes</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/travel/train-stations/">Train Stations</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/travel/essentials/">Travel Essentials</a></h3></li>
+                        </ul>
+                    </li>
+                    <li class="col-sm-6 page-block item">
+                        <div class="pages-category"> <a href="https://www.morocco.com/culture/"><span class="pages-category-title">Culture and Society</span></a></div>
+                        <ul class="pages-lead-list">
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/culture/architecture/">Ancient Morocco</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/language/arabic-articles/">Arabic and French </a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/business/">Business and Economy</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/culture/celebrations/">Celebrations</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/culture/famous-moroccan-people/">Famous Moroccans</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/culture/folklore/">Folklore</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/culture/ancient-morocco/">History</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/culture/literature/">Literature</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/culture/music/">Music</a></h3></li>
+                            <li><h3 class="pages-item-title"> <a href="https://www.morocco.com/culture/weddings-customs/">Weddings Customs</a></h3></li>
+                        </ul>
+                    </li>
+                </ul>
+                <br>
+            </section>
+
+
+            <section class="section-wrap">
+                <h2 class="section-title"><span>Country Profile</span></h2>
+                    <p>Morocco is the 18th largest country in Africa (excluding Western Sahara and the Spanish Territories).  It shares its eastern border with Algeria, the Pacific Ocean on the west, and the Mediterranean Sea to the North.  The country is the closest in proximity of any African country to Europe situated less than 13 km (8 miles) from Gibraltar which can be seen from both coastlines.  Scattered along the Morocco’s Mediterranean coast are three Spanish territories.</p>
+<p>Morocco has 2,945 km (1,830 mi) of coastline (including Western Sahara) and 42 major rivers and streams.  From north to south (vertical measurement), the country measures about 1815 km (465 mi) northeast to southwest and 525 km(327 mi) southeast to northwest.  Morocco is considered a strategic location due to its proximity to the Strait of Gibraltar which is only 29 km (19 mi) away.</p>
+<p>The Morocco Constitution provides for a constitutional monarchy with branches divided into Executive, Legislative and Judicial functions.  Morocco has a King.  The head of the Morocco Government is the Prime Minister. The country is divided into 12 limited, self-governing council areas and comprised of 75second-tier administrative divisions and providences.  The largest region is Casablanca-Settat which is followed closely by Rabat-Salé-Kénitra, Marrakech-Safi, and Fès-Meknès. Morocco is a member of the United Nations, African Union, Arab League, Arab Maghreb Union, and Organization of Islamic Cooperation.</p>
+                <p>
+					                    <img data-no-lazy="1" class="pages-lead-image" src="https://www.morocco.com/wp-content/uploads/2020/01/Canva-Flag-Morocco-scaled-1.jpg" alt="Below is our country profile containing facts and information to familiarize you with Morocco."></p>
+                <p>Below is our country profile containing facts and information to familiarize you with Morocco.</p>
+<ul>
+<li><strong>Country Name: </strong>Morocco</li>
+<li><strong>Official Name:</strong> Kingdom of Morocco  or المملكة المغربية (Arabic) <em>al-Mamlakah al-Maghribiyyah</em>: Kingdom of the West (English)</li>
+<li><strong>Formation: </strong>Ruled by Idrisid and Alaouite dynasites(788-1631), Independence 1956</li>
+<li><strong>Historical Nickname: </strong>“لمغرب الأقصى” or <em>al-Maghrib al-Aqṣá</em> (The Farthest West”)</li>
+<li><strong>Flag:</strong> Deep red with centered five-pointed green pentagram, adopted 1915</li>
+<li><strong>Country Motto: </strong>&#8220;الله، الوطن، الملك&#8221; (Arabic); &#8220;God, Homeland, King&#8221; (English)</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Government: </strong>Unitary Parliamentary Constitutional Monarchy</li>
+<li><strong>Capital: </strong>Rabat</li>
+<li><strong>Largest City: </strong>Casablanca</li>
+<li><strong>Select Cities: </strong>Tangiers, Fez, Rabat, Meknes, Ifrane, Marrakech, Agadir</li>
+<li><strong>Points of interest: </strong>High Atlas Mountains, Sahara Desert, Mosques and National Parks</li>
+<li><strong>Nationality: </strong>Moroccan</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Official Religion: </strong>Sunni Islam</li>
+<li><strong>Population: </strong>35,582,945 (2018)</li>
+<li><strong>Life Expectancy: </strong>74.43 years for males and 77.02 years for females (World Bank)</li>
+<li><strong>Largest Ethnic Group: </strong>Arab-Berber</li>
+<li><strong>Official Languages: </strong>Berber, Darija, Hassaniya: Foreign languages are French, English and Spanish</li>
+<li><strong>National Anthem: </strong>“النشيدالوطنيالمغربي” (Arabic); “CherifianAnthem” (English)</li>
+<li><strong>Area: </strong>711,850Km² (274,470 mi²)</li>
+<li><strong>National Symbols: </strong>The Moroccan Flag</li>
+<li><strong>National Colors:</strong> Red and Green</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Average Temperature: </strong>Extreme weather and temperature variations by regions</li>
+<li><strong>Climate and Seasons: </strong>Diverse, depending on region with Mediterranean climate along the north coast. Rainy season varies. Average precipitation decreases further south in more arid regions.</li>
+<li><strong>Highest Elevation: </strong>Topukkai, elevation of 4,165m (13,665ft)</li>
+<li><strong>Lowest Point: </strong>SebkhaTah, elevation of −55 m (180 ft)below sea level</li>
+<li><strong>Longest River: </strong>The Draa 1100 km (685 mi)</li>
+<li><strong>Deepest and Highest Lake: </strong>Lake Aguelmame Sidi Ali 36m(118 ft) deep, Altitude of 2080 m</li>
+<li><strong>Largest Lake: </strong>Lake Aguelmame Sidi Ali</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Location: </strong>Northwest Africa</li>
+<li><strong>Calling code:</strong> +212</li>
+<li><strong>Geographic Coordinates: </strong>2 00 S, 77 30 W</li>
+<li><strong>Currency: </strong>Dirham</li>
+<li><strong>Driving side:</strong>  Right</li>
+<li><strong>Time zone:</strong> One time zones (UTC+1)</li>
+<li><strong>Internet TLD: </strong>.ma</li>
+<li><strong>Busiest Airport: </strong>Mohammed V International Airport (IATA: CMN)</li>
+<li><strong>Bordering Countries: </strong>Algeria, Western Sahara. Spain across the Strait of Gibraltar</li>
+</ul>
+
+            </section>
+            <section class="section-wrap faq-section">
+                <h2 class="section-title"><span>Morocco Travel </span></h2>
+				                <p><img data-no-lazy="1" class="pages-lead-image" src="https://www.morocco.com/wp-content/uploads/2020/01/Canva-Morocco-on-a-map.jpg" alt="Morocco Travel "></p>
+                <h3>What currency is used in Morocco?</h3>
+<p>The official monetary <a href="/business/currency/">currency</a> of Morocco is the Dirham commonly represented by the symbol (DH) and consists of coins and banknotes.</p>
+<h3>Where should I visit when in Morocco?</h3>
+<p>Morocco is the most popular tourist destination in Africa.  However, the country’s popularity does not detract from the superlative and hundreds of unspoiled attractions.  For those seeking outdoors adventure, there are more than 10 protected areas and <a href="/attractions/national-parks/">national-parks</a> and sites such as <a href="/attractions/national-parks/souss-masa-national-park/">Souss Masa National Park</a>, heritage sites such as <a href="/attractions/heritage-sites/ait-ben-haddou/">Ait Ben Haddou</a>, the <a href="/attractions/national-parks/arganeraie-reserve/">Arganeraie Biosphere Reserve</a> and <a href="/attractions/mamora-forest/">The Mamora Forest near Rabat</a>.</p>
+<p>For travelers preferring to visit cities and towns, Morocco is famous for some of the most important architecture and historical sites in the world.  These places are dotted with mosques, such as the world&#8217;s second largest, <a href="/attractions/mosques/hassan-mosque/">the Hassan II Mosque</a>, museums of antiquity, Moroccan arts, archaeology and some of the world’s oldest ethnographic museums such as the <a href="/attractions/museums/ethnographic-museum-tetouan/">Tetouan Museum of Indigenous Arts</a>.</p>
+<h3>When is the best time of year to travel to Morocco?</h3>
+<p>Because of Morocco’s diverse geography and <a href="/about-morocco/discover-morocco/climate/">climatethe</a> “best time of year” to visit will depend on where you will be travelling.  Peak travel seasons are between April and October.  In most major coastal cities in Morocco, January to May is the wettest, coolest time of the year.  Average daytime temperature is about 70 °F (24°C) with nighttime temperatures more than twenty degrees cooler.  The climate varies by region from coastal cities such as Essaouira due to the height of the Atlas Mountains with elevations approaching 14,000’ above sea level.</p>
+<h3>What are some of the “must see” destinations in Morocco?</h3>
+<p>Certainly some of the most popular and “must see” destinations would include <a href="/attractions/museums/marrakech-museum/">The Marrakech Museum</a> filled with traditional Moroccan art, <a href="/attractions/museums/natural-science/">the Natural Science Museum</a> in Rabat, and the <a href="/attractions/museums/american-legation/">American Legation Museum</a> with its beautiful courtyard and picturesque views of the Straits of Gibraltar.  Another “must see” destinations includes a visit to the <a href="/attractions/palaces/raissouni-palace/">Raissouni Palace</a> in Asilah and the <a href="/attractions/medina-of-rabat/">Medina of Rabat</a>.</p>
+<p>For those seeking outdoor adventure there are diverse activities appealing to all tastes and interests such as <a href="/attractions/wildlife/camels/">camel treks</a>, a visit to one of many golf courses such as <a href="/blog/royal-dar-es-salaam-golf-course/">The Royal Dar Es Salaam Golf Course</a> in Rabat or the Royal Marrakech Golf Club in Marrakech. Guides and travel companies offer exception daily tours for <a href="/activities/sport-2/trekking/">trekking</a>, <a href="/activities/sport-2/hot-air-ballooning/">hot air ballooning</a>, charter boats where world class fishing waters abound. There is also an abundance of kite surfing and windsurfing spots from such ports of call on Atlantic Ocean like <a href="/regions/marrakech-tensift-el-haouz/essaouira/">Essaouira</a>.</p>
+<h3>How expensive is Morocco?</h3>
+<p>Youth hostels and <a href="/travel/hotels/">hotels</a> are plentiful with season nightly prices ranging between USD$10 and USD$15.  Mid-range hotels in the larger cities such as Casablanca range between USD$48 to USD$150 a night but bargains abound.  When planning your trip account for meals, ground transportation, entrance fees, and entertainment.  <a href="m/travel/flights/">Flights</a>, day tours, and <a href="/travel/car-rental/">rental car</a> costs will vary based on your travel itinerary and length of stay.  There are a variety of river tours as well as dozens of companies offering <a href="/travel/cruises/">cruises</a> to ports throughout Morocco such as the <a href="/area-guide/ports/port-of-safi/">Port of Safi</a> or the <a href="/area-guide/ports/port-of-essaouira/">Port of Essaouira</a>.</p>
+<h3>Do I need a visa to visit Morocco?</h3>
+<p>Depending on your citizenship and country of origin, <a href="/travel/essentials/visas-passports/">visas and passports</a> and other travel documentation is required unless the foreign national is a citizen of a country that is eligible for a visa exemption.  Citizens from almost 70 territories and countries, including the United States, Canada, and all European Union citizens can lawfully enter Morocco for up to 90 days without a visa.</p>
+            </section>
+        </main>
+        <aside class="aside">
+            <div class="booking-widget">
+                <div class="booking-widget-wrapper">
+  <script type="text/javascript">
+/* Morocco_com / Widget */
+var MediaAlphaExchange = {
+   "data": {
+      "accept_pets": 0,
+      "add_car": 0,
+      "add_flight": 0,
+      "check_in_date": "2018-09-14",
+      "check_out_date": "2018-09-16",
+      "destination": "Rabat",
+      "rooms": [
+         {
+            "num_adults": 2
+         }
+      ]
+   },
+   "locale": "en",
+   "placement_id": "3a2NFKPpHnDrsnc46Z5LfFPE_KWdjg",
+   "sub_1": "",
+   "type": "form",
+   "version": "17",
+   "_design_conf": {
+        "flight": {
+            "placement_id": "OmNpvHwCK8N6uLYb5c8nhzeyNbAafQ"
+        },
+        "hotel": {
+            "placement_id": "Q7E2XMEIeyfQD0Rs0hjj-9oOXUxrnQ"
+        },
+        "car_rental": {
+            "placement_id": "SLQS0xm8FQ1-ZhNuXL8TleFRWrzYlA"
+        },
+        "cruise": {
+            "placement_id": "THSX0v7hvFZSs_Mniq09uqM7Tg-oYA"
+        }
+    },
+};
+</script>
+<script src="//travel.mediaalpha.com/js/serve.js"></script></div>            </div>
+            <h2 class="title"><span>Top Blog Posts </span></h2>
+<div class="menu-home-sidebar-1-container"><ul id="menu-home-sidebar-1" class="aside-home-nav"><li id="menu-item-17814" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17814"><a href="/blog/ahwach-a-southern-moroccan-dance/">Ahwach a Southern Moroccan Dance</a></li>
+<li id="menu-item-17815" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17815"><a href="/blog/clothing-in-morocco/">Clothing in Morocco</a></li>
+<li id="menu-item-17816" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17816"><a href="/blog/les-vetements-au-maroc/">Les Vetements Au Maroc</a></li>
+<li id="menu-item-17817" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17817"><a href="/blog/cultural-diversity-in-morocco-an-omnipresent-history/">Cultural Diversity in Morocco</a></li>
+<li id="menu-item-17818" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17818"><a href="/blog/moroccos-tea-drinking-tradition/">Morocco&#8217;s Tea  Drinking Tradition</a></li>
+<li id="menu-item-17819" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17819"><a href="/blog/the-green-march-a-campaign-for-reunification/">The Green March: A Campaign for Reunification</a></li>
+<li id="menu-item-17820" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17820"><a href="/blog/chaibia-past-half-century-of-career/">Chaibia Past Half Century of Career (الشعيبيةالعدراوي)</a></li>
+<li id="menu-item-17821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17821"><a href="/blog/royal-stables-in-meknes/">Royal Stables in Meknes</a></li>
+<li id="menu-item-17822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17822"><a href="/blog/beautiful-oasis-of-skoura/">Beautiful Oasis of Skoura</a></li>
+</ul></div>
+<h2 class="title"><span>Top Forum Posts </span></h2>
+<div class="menu-home-sidebar-2-container"><ul id="menu-home-sidebar-2" class="aside-home-nav"><li id="menu-item-17823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17823"><a href="/videos/bnat-ifrane-fes-al-maghrib-hot-leila-chair-chakir-dating-in-cafe/2/">BnatIfrane Fes al Maghrib Hot – Leila Chair Chakir Dating in Cafe</a></li>
+</ul></div>
+<h2 class="title"><span>Top Travel Videos </span></h2>
+<div class="menu-home-sidebar-3-container"><ul id="menu-home-sidebar-3" class="aside-home-nav"><li id="menu-item-17824" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17824"><a href="/videos/rabat-is-my-capital/">Rabat is My Capital</a></li>
+<li id="menu-item-17825" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17825"><a href="/videos/صور-من-المغرب-pictures-of-morocco/">Pictures of Morocco صور من المغرب</a></li>
+<li id="menu-item-17826" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17826"><a href="/videos/tony-koukos-world-travel-photography-morocco-slideshow-m4v/">Morocco Slideshow</a></li>
+<li id="menu-item-17827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17827"><a href="/videos/local-weaver-in-the-rue-sidi-ben-slimane-you-can-see-him-on-your-way-to-riad-ariha-marrakech/">Weaver in the Rue Sidi Ben Slimane</a></li>
+<li id="menu-item-17828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17828"><a href="/videos/morocco-ait-benhaddou-agdz-and-gorges-du-todra/">Ait Benhaddou Agdz and Gorges du Todra</a></li>
+<li id="menu-item-17829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17829"><a href="/videos/introducing-refuge-toubkal-les-mouflons/">Toubkal les Mouflons Refuge</a></li>
+<li id="menu-item-17830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17830"><a href="/videos/travel-documentary-of-morocco-episode-6-mp4/">Morocco Travel Documentary</a></li>
+<li id="menu-item-17831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17831"><a href="/videos/artisanat-marocain-tourneur/">Artisanat Marocain Tourneur</a></li>
+<li id="menu-item-17832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17832"><a href="/videos/trailer-maroc-kapawari/">Maroc Kapawari Adventure</a></li>
+<li id="menu-item-17833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17833"><a href="/videos/walking-through-the-souk-in-marrakech/">Walking Through the Souk in Marrakech</a></li>
+<li id="menu-item-18023" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18023"><a href="/videos/merzouga-sunrise/">Merzouga Sunrise</a></li>
+<li id="menu-item-18024" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18024"><a href="/videos/getting-the-camels-to-sit-down-sahara-desert/">Camels in the Sahara Desert</a></li>
+</ul></div>			   <div class="advertise-aside size-300x250"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+<!-- Horse Racing 728 x 90 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6926536363504622"
+     data-ad-slot="1861609023"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+ 
+           
+        </aside>
+    </div>
+</div>
+</div><!-- #page we need this extra closing tag here -->
+<div class="footer-montage">
+  <picture>
+    <source srcset="https://www.morocco.com/wp-content/themes/geo-sites-new/assets//img/morocco_footer_images_4.jpg" media="(min-width:601px) and (max-width:792px)">
+    <source srcset="https://www.morocco.com/wp-content/themes/geo-sites-new/assets//img/morocco_footer_images_6.jpg" media="(min-width:793px)">
+    <img data-no-lazy="1" class="footer-montage-image" src="https://www.morocco.com/wp-content/themes/geo-sites-new/assets//img/morocco_footer_images_3.jpg" alt="Morocco travel pictures.">
+  </picture>
+</div>
+<footer class="footer">
+  <div class="container">
+    <div class="top-block">
+		<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="navbar-nav"><li id="menu-item-17402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-17387 current_page_item menu-item-17402"><a href="https://www.morocco.com/" aria-current="page">Home</a></li>
+<li id="menu-item-17358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17358"><a href="https://www.morocco.com/corporate/">About Us</a></li>
+<li id="menu-item-17359" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17359"><a href="https://directory.morocco.com/">Add Your Business</a></li>
+<li id="menu-item-17361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17361"><a href="https://www.morocco.com/corporate/advertising/">Advertising</a></li>
+<li id="menu-item-17363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17363"><a href="https://www.morocco.com/corporate/travel-directory-affiliates/">Affiliates</a></li>
+<li id="menu-item-18037" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18037"><a href="/community/">Community</a></li>
+<li id="menu-item-17364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17364"><a href="https://www.morocco.com/corporate/contact/">Contact Us</a></li>
+<li id="menu-item-17925" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17925"><a href="/forums/">Forums</a></li>
+<li id="menu-item-17366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17366"><a href="https://www.morocco.com/corporate/privacy-statement/">Privacy</a></li>
+<li id="menu-item-17612" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17612"><a href="https://www.morocco.com/corporate/contact/">Report Content Violation</a></li>
+<li id="menu-item-17522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17522"><a href="https://www.morocco.com/sitemap/">Sitemap</a></li>
+<li id="menu-item-17367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17367"><a href="https://www.morocco.com/corporate/submit-article/">Submit an Article</a></li>
+<li id="menu-item-17369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17369"><a href="https://www.morocco.com/corporate/usage-policy/">Use Policy</a></li>
+<li id="menu-item-17909" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17909"><a href="/videos/">Videos</a></li>
+</ul></div>    </div>
+    <div class="copyright-container">
+    <p class="copyright">Morocco.com. All Rights Reserved. All trademarks and web sites that appear throughout this site are the property of their respective owners.  No part of this site shall be reproduced, copied, or otherwise distributed without the express, written consent of Morocco.com. This site is not affiliated with any government entity associated with a name similar to the site domain name.</p>
+    <p class="copyright">&copy; Copyright 1995-2020 Morocco.com. All rights reserved.</p>
+    <p class="copyright"><a href="https://www.morocco.com/" class="logo-link"><img src="https://www.morocco.com/wp-content/themes/geo-sites-new/assets/img/logo_resize-01.svg" alt="Morocco.com" style="width: 200px;"></a></p>
+    </div>
+		  </div>
+</footer>
+<div class="spinner-wrapper" style="display: none">
+  <div class="spinner">
+    <div class="double-bounce1"></div>
+    <div class="double-bounce2"></div>
+  </div>
+</div>
+
+<div class="cookie-popup" style="display: none">
+  <div class="container">
+    <p class="description">We are using cookies to make the website better. By clicking Agree you are accepting <a href="https://www.morocco.com/">Terms of Service</a></p>
+    <span class="btn accept" role="button">Got it!</span>
+  </div>
+</div>
+<div class="support-popup" style="display: none">
+  <div class="container">
+    <div class="description">
+      <h5>Looks like you're using an ad-blocker.</h5>
+      <p>This site is supported by ads. Please help us out and disable your ad-blocker.</p>
+    </div>
+    <div class="buttons">
+      <span class="btn" role="button">Disable</span>
+      <span class="btn" role="button">Dismiss</span>
+    </div>
+  </div>
+</div>
+<script type='text/javascript' src='https://www.morocco.com/wp-content/themes/geo-sites-new/assets/js/application.js?ver=2019-06-04'></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4121811-12"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-4121811-12');
+</script></body>
+</html>

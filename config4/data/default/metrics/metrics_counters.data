@@ -1,0 +1,14 @@
+downloader.fetches.aborted:1736
+downloader.fetches.errors:5088
+downloader.fetches.successes:20122
+downloader.http_response.status.2xx:18199
+downloader.http_response.status.301:0
+downloader.http_response.status.302:0
+downloader.http_response.status.3xx:63
+downloader.http_response.status.401:6
+downloader.http_response.status.402:0
+downloader.http_response.status.403:165
+downloader.http_response.status.404:1425
+downloader.http_response.status.5xx:135
+target.storage.pages.downloaded:11796
+target.storage.pages.relevant:1481
